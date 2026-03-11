@@ -1,0 +1,1 @@
+{"version":2,"defects":{"App\\Tests\\Controller\\DashboardControllerTest::testIndex":5},"times":{"DashboardTest::testDashboardCreation":0.001,"App\\Tests\\Controller\\DashboardControllerTest::testIndex":0.446,"App\\Tests\\ReadModel\\DashboardReadModelTest::testReadModelCreation":0}}
